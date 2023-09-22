@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 <!-- header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcom%20to%20Yuna's%20Github%20🙌🏻&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcom%20to%20Yuna's%20Github%20🙌🏻&fontSize=65" />
 </div>
 
 <!-- contact info -->
