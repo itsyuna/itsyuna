@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 </div>
 
 <!-- contact info -->
-<h2 align="center">Contact Info</h2>
+<h2 align="center">📧Contact Info📧</h2>
 <div align="center">
   <a href="mailto:itsyuna27@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 </div>
 
-</br>
+<br>
 
 <!-- main -->
 <h2 align="center">📚Tech Stack📚</h2>
@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 <!--
 [![itsyuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsyuna&include_all_commits=true&show_icons=true&theme=transparent)](https://github.com/itsyuna/github-readme-stats)
 -->
+
 
 <!-- top languages -->
 <!--
