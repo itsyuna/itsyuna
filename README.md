@@ -15,15 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcom%20to%20Yuna's%20Github%20🙌🏻&fontSize=60)
--->
-<!-- header -->
+<!-- Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcom%20to%20Yuna's%20Github%20🙌🏻&fontSize=60" />
 </div>
 
-<!-- contact info -->
+<!-- Contact info -->
 <h2 align="center">📧Contact Info📧</h2>
 <div align="center">
   <a href="mailto:itsyuna27@gmail.com">
@@ -33,7 +30,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<!-- main -->
+<!-- Tech stack -->
 <h2 align="center">📚Tech Stack📚</h2>
 <div align="center">
   <div>
@@ -50,29 +47,30 @@ Here are some ideas to get you started:
   <div>
     <img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
     <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
   </div>
 </div>
 
-<!-- stats -->
+<br>
+
+<!-- Stats -->
 <!--
-[![itsyuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsyuna&include_all_commits=true&show_icons=true&theme=transparent)](https://github.com/itsyuna/github-readme-stats)
+![itsyuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsyuna&show_icons=true)
 -->
 
-
-<!-- top languages -->
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyuna&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyuna)](https://github.com/itsyuna/github-readme-stats)
--->
+<!-- Top languages -->
+<h2 align="center">🔖Language Stat🔖</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsyuna&layout=compact" />
+</div>
 
 ***
 
-<!-- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fitsyuna&count_bg=%23BC7AF9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
--->
-<!-- hits -->
+<!-- Hits -->
 <div align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fitsyuna&count_bg=%23BC7AF9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fitsyuna&count_bg=%23BC7AF9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
